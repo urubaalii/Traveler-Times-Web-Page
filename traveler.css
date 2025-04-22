@@ -1,0 +1,41 @@
+*{
+font-family: Arial;
+}
+h1,
+h2,
+h3 {
+    color: white;
+}
+h1{
+    background-color: black;
+    text-align: center;
+}
+h2,
+h3 {
+background-color: #2e619b;
+}
+
+ul,
+ol{
+    background-color: #e0e0e0
+}
+
+p{
+    text-indent: 2em;
+}
+ol{
+    list-style-type: upper-roman;
+}
+
+a{
+    font-weight: bold;
+    color: rgb(34, 0, 128);
+    text-decoration: none;
+}
+.surfer {
+    text-align: center;
+}
+
+#beer {
+    font-style: italic;
+}
